@@ -32,5 +32,7 @@ O objetivo principal deste curso é fornecer:
 ## 💡 Como Contribuir
 
 Se você deseja contribuir para este projeto, fique à vontade para fazer um fork do repositório e enviar pull requests. Sugestões e melhorias são sempre bem-vindas!
+teste
+
 
 
