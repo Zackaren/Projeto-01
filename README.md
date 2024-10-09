@@ -13,7 +13,7 @@ O objetivo principal deste curso é fornecer:
 - Uma introdução clara e direta ao HTML.
 - Exemplos práticos e interativos para facilitar o entendimento.
 - A possibilidade de aplicar o que foi aprendido por meio de exercícios e desafios.
-- Material acessível tanto para iniciantes quanto para quem deseja revisar conceitos.
+- Material acessível tanto para iniciantes quanto para quem deseja revisar conceito
 
 ## 🚀 Funcionalidades
 
